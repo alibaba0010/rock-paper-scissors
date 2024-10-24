@@ -1,0 +1,9 @@
+node_modules
+dist/*
+.env
+.prettierrc
+.prettierignore
+components.json
+LICENSE
+next-env.d.ts
+next.config.mjs
